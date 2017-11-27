@@ -2,12 +2,6 @@
   "name": "react-components-bootstrap",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "react": "^16.1.1",
-    "react-bootstrap": "^0.31.5",
-    "react-dom": "^16.1.1",
-    "react-scripts": "1.0.17"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -16,8 +10,15 @@
     "storybook": "start-storybook -p 9009 -s public",
     "build-storybook": "build-storybook -s public"
   },
+  "dependencies": {
+    "react": "^16.1.1",
+    "react-bootstrap": "^0.31.5",
+    "react-dom": "^16.1.1",
+    "react-scripts": "1.0.17"
+  },
   "devDependencies": {
     "@storybook/addon-actions": "^3.2.16",
+    "@storybook/addon-info": "^3.2.16",
     "@storybook/addon-links": "^3.2.16",
     "@storybook/react": "^3.2.16"
   }
