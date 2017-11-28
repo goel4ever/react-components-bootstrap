@@ -11,6 +11,8 @@
     "build-storybook": "build-storybook -s public"
   },
   "dependencies": {
+    "bootstrap": "^3.3.7",
+    "prop-types": "^15.6.0",
     "react": "^16.1.1",
     "react-bootstrap": "^0.31.5",
     "react-dom": "^16.1.1",
