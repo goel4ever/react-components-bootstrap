@@ -16,12 +16,12 @@
     "react": "^16.1.1",
     "react-bootstrap": "^0.31.5",
     "react-dom": "^16.1.2",
-    "react-scripts": "^3.2.0"
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^3.2.16",
     "@storybook/addon-info": "^5.2.6",
     "@storybook/addon-links": "^3.2.16",
-    "@storybook/react": "^5.2.6"
+    "@storybook/react": "^6.5.13"
   }
 }
